@@ -21,7 +21,7 @@ int main()
 
       printf("\n %d",printf("hello")); // printf() returns number of characters
 
-      // 5.2 != 5.2f
+      // 5.2 != 5.2f  (5.2 is  double,5.2f is float)
       
 
 
