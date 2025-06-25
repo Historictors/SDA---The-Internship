@@ -1,6 +1,9 @@
 #include <bits/stdc++.h>
 using namespace std;
-
+int x =10;
+void fn(){
+    cout <<" "<<x;
+}
 int main()
 {
     int n;
